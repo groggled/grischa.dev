@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Hello, my name is Grischa"
-  sub = "I'm a currently a student"
+  sub = "I'm a math and linguistics student"
 
 [params.main]
   latestPublishHeader = "My Latest Project"
@@ -58,6 +58,7 @@ pygmentsCodeFences=true
   #instagram = "https://www.instagram.com/"
   #gitlab = "https://gitlab.com/"
   #keybase = "https://keybase.io/"
+  #tumblr = "https://www.tumblr.com/blog/litterallyguri"
 
 [params.contact]
   email = ""
